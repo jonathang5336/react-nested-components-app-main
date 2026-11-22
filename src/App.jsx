@@ -20,11 +20,11 @@ function App() {
           alignItems: "center",
           gap: "10px",
         }}>
-        <Student name="Sudhakar" age={20} />
-        <Student name="Ramesh" age={22} />
-        <Student name="Suresh" age={21} />
-        <Student name="Mahesh" age={23} />
-        <Student name="Rohit" age={24} />
+        <Student name="Santhu" age={20} />
+        <Student name="Raju" age={22} />
+        <Student name="Swadesh" age={21} />
+        <Student name="Mokshith" age={23} />
+        <Student name="Rahul" age={24} />
       </main>
       <Footer />
     </div>
